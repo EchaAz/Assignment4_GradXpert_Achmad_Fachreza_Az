@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(243, 134, 1);
+}
+
+.white-shadow {
+    box-shadow: 0 0 30px rgba(255, 255, 255);
+}
+
+.light-orange-bg {
+    background-color: rgb(252, 161, 50);
+}
+
+.custom-button {
+    height: 40px;
+}
+
+.custom-font-size {
+    font-size: 30px;
+}
+
+.custom-font {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.custom-font-2 {
+    font-family: Helvetica, sans-serif;
+}
